@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "VK.WebApp.DataTransferObjects/1.0.0": {
+        "dependencies": {
+          "VK.WebApp.Common": "1.0.0",
+          "VK.WebApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "VK.WebApp.DataTransferObjects.dll": {}
+        }
+      },
+      "VK.WebApp.Common/1.0.0": {
+        "runtime": {
+          "VK.WebApp.Common.dll": {}
+        }
+      },
+      "VK.WebApp.Entities/1.0.0": {
+        "dependencies": {
+          "VK.WebApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "VK.WebApp.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VK.WebApp.DataTransferObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VK.WebApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VK.WebApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

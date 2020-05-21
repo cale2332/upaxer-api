@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Services\\SI.SaludIntegral.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj",
+        "projectName": "SI.SaludIntegral.Common",
+        "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj",
+        "packagesPath": "C:\\Users\\AlejandroValladares\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlejandroValladares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\SI.SaludIntegral.Data.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\SI.SaludIntegral.Data.Repositories.csproj",
+        "projectName": "SI.SaludIntegral.Data.Repositories",
+        "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\SI.SaludIntegral.Data.Repositories.csproj",
+        "packagesPath": "C:\\Users\\AlejandroValladares\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlejandroValladares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj"
+              },
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj",
+        "projectName": "SI.SaludIntegral.DataTransferObjects",
+        "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj",
+        "packagesPath": "C:\\Users\\AlejandroValladares\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlejandroValladares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj"
+              },
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj",
+        "projectName": "SI.SaludIntegral.Entities",
+        "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj",
+        "packagesPath": "C:\\Users\\AlejandroValladares\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlejandroValladares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Common\\SI.SaludIntegral.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Services\\SI.SaludIntegral.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Services\\SI.SaludIntegral.Services.csproj",
+        "projectName": "SI.SaludIntegral.Services",
+        "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Services\\SI.SaludIntegral.Services.csproj",
+        "packagesPath": "C:\\Users\\AlejandroValladares\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlejandroValladares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\SI.SaludIntegral.Data.Repositories.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Data.Repositories\\SI.SaludIntegral.Data.Repositories.csproj"
+              },
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.DataTransferObjects\\SI.SaludIntegral.DataTransferObjects.csproj"
+              },
+              "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj": {
+                "projectPath": "C:\\workspace\\SaludIntegral\\api\\SI.SaludIntegral.Entities\\SI.SaludIntegral.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Dropbox.Api": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

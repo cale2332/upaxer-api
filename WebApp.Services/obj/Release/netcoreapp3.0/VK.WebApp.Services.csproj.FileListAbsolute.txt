@@ -1,0 +1,17 @@
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Services.deps.json
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Services.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Services.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Common.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Data.Repositories.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.DataTransferObjects.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Entities.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Common.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Data.Repositories.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.DataTransferObjects.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\bin\Release\netcoreapp3.0\VK.WebApp.Entities.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.csprojAssemblyReference.cache
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.AssemblyInfoInputs.cache
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.AssemblyInfo.cs
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.csproj.CopyComplete
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Services\obj\Release\netcoreapp3.0\VK.WebApp.Services.pdb

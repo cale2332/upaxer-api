@@ -1,0 +1,9 @@
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\bin\Debug\VK.WebApp.Database.dacpac
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\bin\Debug\VK.WebApp.Database.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\bin\Debug\VK.WebApp.Database.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\Model.xml
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\refactor.xml
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\postdeploy.sql
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\predeploy.sql
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\VK.WebApp.Database.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Database\obj\Debug\VK.WebApp.Database.pdb

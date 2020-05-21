@@ -1,0 +1,11 @@
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\bin\Debug\netcoreapp3.0\VK.WebApp.Entities.deps.json
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\bin\Debug\netcoreapp3.0\VK.WebApp.Entities.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\bin\Debug\netcoreapp3.0\VK.WebApp.Entities.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\bin\Debug\netcoreapp3.0\VK.WebApp.Common.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\bin\Debug\netcoreapp3.0\VK.WebApp.Common.pdb
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.csprojAssemblyReference.cache
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.AssemblyInfoInputs.cache
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.AssemblyInfo.cs
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.csproj.CopyComplete
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.dll
+C:\workspace\ArbolDeMama\api\VK.WebApp.Entities\obj\Debug\netcoreapp3.0\VK.WebApp.Entities.pdb

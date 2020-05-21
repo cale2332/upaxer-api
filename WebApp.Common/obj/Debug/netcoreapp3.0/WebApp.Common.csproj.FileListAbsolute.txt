@@ -1,0 +1,16 @@
+C:\workspace\Pininos\netasystem\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.deps.json
+C:\workspace\Pininos\netasystem\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.dll
+C:\workspace\Pininos\netasystem\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.pdb
+C:\workspace\Pininos\netasystem\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.csprojAssemblyReference.cache
+C:\workspace\Pininos\netasystem\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.AssemblyInfoInputs.cache
+C:\workspace\Pininos\netasystem\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.AssemblyInfo.cs
+C:\workspace\Pininos\netasystem\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.dll
+C:\workspace\Pininos\netasystem\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.pdb
+C:\workspace\Pininos\upexer\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.deps.json
+C:\workspace\Pininos\upexer\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.dll
+C:\workspace\Pininos\upexer\api\WebApp.Common\bin\Debug\netcoreapp3.0\WebApp.Common.pdb
+C:\workspace\Pininos\upexer\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.AssemblyInfoInputs.cache
+C:\workspace\Pininos\upexer\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.AssemblyInfo.cs
+C:\workspace\Pininos\upexer\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.dll
+C:\workspace\Pininos\upexer\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.pdb
+C:\workspace\Pininos\upexer\api\WebApp.Common\obj\Debug\netcoreapp3.0\WebApp.Common.csprojAssemblyReference.cache
